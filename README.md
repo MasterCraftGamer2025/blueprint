@@ -78,15 +78,15 @@ Backups and checks before making changes.
 ------------------------------------------------------------
 
 If you find bugs or want new features:  
-GitHub Issues: **https://github.com/hopingboyz/blueprint/issues**
+GitHub Issues: **https://github.com/MasterCraftGamer2025/blueprint**
 
 ------------------------------------------------------------
 ❤️ CREDITS
 ------------------------------------------------------------
 
-Developed by **Hopingboyz**  
-YouTube: https://youtube.com/@HopingBoyz  
-GitHub: https://github.com/hopingboyz  
+Developed by **MasterCraftGamer**  
+YouTube: https://youtube.com/@masterboy_07?si=XOKvbBBr7OZY_rXc 
+GitHub: https://github.com/MasterCraftGamer2025  
 
 ------------------------------------------------------------
 ⭐ LIKE THIS PROJECT?

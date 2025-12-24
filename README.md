@@ -2,7 +2,7 @@ PTERODACTYL PANEL BLUEPRINT & ADDONS INSTALLER
 =================================================
 
 🚀 Ultimate One‑Click Installer for Pterodactyl Blueprints & Addons  
-Created by **Hopingboyz** — Fast, Clean, Fully Automated  
+Created by **MasterCraftGamer** — Fast, Clean, Fully Automated  
 Compatible with **Ubuntu / Debian** systems and **Pterodactyl v1.x**
 
 ------------------------------------------------------------
@@ -29,7 +29,7 @@ reliable, and streamlined installation experience.
 Run this command to automatically install ALL blueprints:
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/hopingboyz/blueprint/main/blueprint-installer.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/MasterCraftGamer2025/blueprint/refs/heads/main/blueprint-installer.sh)
 ```
 
 ------------------------------------------------------------
@@ -39,7 +39,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/hopingboyz/blueprint/main/bl
 Run this command to automatically install addons:
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/hopingboyz/blueprint/main/addon-installer.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/MasterCraftGamer2025/blueprint/refs/heads/main/addon-installer.sh)
 ```
 
 ------------------------------------------------------------

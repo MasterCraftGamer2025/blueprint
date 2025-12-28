@@ -39,7 +39,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/MasterCraftGamer2025/bluepri
 Run this command to automatically install addons:
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/MasterCraftGamer2025/blueprint/refs/heads/main/addon-installer.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/MasterCraftGamer2025/blueprint/refs/heads/main/nebula)
 ```
 
 ------------------------------------------------------------
